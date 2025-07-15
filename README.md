@@ -9,7 +9,7 @@ For this, publically avilable data from four research papers where used with dat
 
 [Paper 2](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/tree/main/Paper%202)
 
-[Paper 3]
+[Paper 3](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/tree/main/Paper%203)
 
 [Paper4]
 
