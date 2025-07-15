@@ -20,7 +20,7 @@ Below are the links to the different directories associated with analysis of spe
 Created in [https://BioRender.com](https://BioRender.com) A broad overview of the analysis pipline used for this project.
 
 
-list of tools used to download and check quality of data
+list of tools used to download and check quality of data.
 |    Tool       |    Function   |   Citation     |            
 | ------------- | ------------- | -------------  |
 | Seqkit | Used to download fastq files from the GEO|Shen, W., Le, S., Li, Y. and Hu, F., 2016. SeqKit: a cross-platform and ultrafast toolkit for FASTA/Q file manipulation. PloS one, 11(10), p.e0163962. |                  
@@ -57,7 +57,7 @@ List of tools used, their function and and accompanying citation for the Alterna
 |rMATS|Used to measure significantly dysregulated genes between samples.|  Shen, S., Park, J.W., Lu, Z.X., Lin, L., Henry, M.D., Wu, Y.N., Zhou, Q. and Xing, Y., 2014. rMATS: robust and flexible detection of differential alternative splicing from replicate RNA-Seq data. Proceedings of the national academy of sciences, 111(51), pp.E5593-E5601.|
 |rmatsplot |Used to generate plots from the results of rMATs |https://github.com/Xinglab/rmats2sashimiplot|
 
-
+If installing rMATS using conda and you encounter any issues try going into the .condarc file and removing the "channel-prioity disabled" option and then installing rmats.
 
 
 
