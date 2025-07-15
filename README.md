@@ -19,7 +19,7 @@ Below are the links to the different directories associated with analysis of spe
 
 Created in [https://BioRender.com](https://BioRender.com) A broad overview of the analysis pipline used for this project.
 
-| Tool | Function | Citation |            
-| ------------- | ------------- |       |
-| Content Cell  | Content Cell  |       |
-| Content Cell  | Content Cell  |       |
+| Tool |           Function |         Citation |            
+| ------------- | ------------- | -------------  |
+| SeqKit  | Download Fastq files  |Shen, W., Le, S., Li, Y. and Hu, F., 2016. SeqKit: a cross-platform and ultrafast toolkit for FASTA/Q file manipulation. PloS one, 11(10), p.e0163962.                |
+| Content Cell  | Content Cell  |                |
