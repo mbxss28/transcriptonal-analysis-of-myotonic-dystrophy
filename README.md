@@ -17,8 +17,14 @@ Below are the links to the different directories associated with analysis of spe
 
 ![alt text](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/blob/main/Analysis%20pipeline2.png)
 
+
+## Analysis pipline
+
+
 Created in [https://BioRender.com](https://BioRender.com) A broad overview of the analysis pipline used for this project.
 
+
+### Getting the data
 
 list of tools used to download and check quality of data.
 |    Tool       |    Function   |   Citation     |            
@@ -26,6 +32,8 @@ list of tools used to download and check quality of data.
 | Seqkit | Used to download fastq files from the GEO|Shen, W., Le, S., Li, Y. and Hu, F., 2016. SeqKit: a cross-platform and ultrafast toolkit for FASTA/Q file manipulation. PloS one, 11(10), p.e0163962. |                  
 | Fastp    |  Used to check quality of Fastq files and automatically produced trimmed files |Chen, S., Zhou, Y., Chen, Y. and Gu, J., 2018. fastp: an ultra-fast all-in-one FASTQ preprocessor. Bioinformatics, 34(17), pp.i884-i890. |
 
+
+### Differental gene expression analysis
 
 List of all the tools, reason they where used and accompanying citation for the differential gene expression analysis. 
 
@@ -46,7 +54,7 @@ List of all the tools, reason they where used and accompanying citation for the 
 |pathview |Used to view the Kegg pathways found to be enriched by ClusterProfiler.|Luo, Weijun, Brouwer, Cory (2013). “Pathview: an R/Bioconductor package for pathway-based data integration and visualization.” Bioinformatics, 29(14), 1830-1831. doi:10.1093/bioinformatics/btt285.|
 
 
-
+### Alternate splicing analysis
 List of tools used, their function and and accompanying citation for the Alternate splicing/differential exon usage analysis. 
 
 | Tool          |   Function    |   Citation     |            
