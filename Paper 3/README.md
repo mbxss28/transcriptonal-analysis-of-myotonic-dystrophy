@@ -1,5 +1,5 @@
 Transcriptional analysis of C9orf72-associated ALS. A form of ALS caused by a hexanucleotide GGGGGG repeat expansion in the C9orf72 gene (Prudencio M et al., 2015).
-For this analysis only healthy and ALS samples from the frontal cortex where used for a better comparison to [Paper 1]
+For this analysis only healthy and ALS samples from the frontal cortex where used for a better comparison to [Paper 1](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/tree/main/Paper%201)
 
 Link to the Fastq files used [GSE67196](https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA279249&o=acc_s%3Aa)
 
