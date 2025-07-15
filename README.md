@@ -5,7 +5,7 @@ This project aim to perform differential gene expression (DE) analysis on DM1 an
 
 For this, publically avilable data from four research papers where used with data downloaded from the [Genome eccession omnibus (GEO)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi).
 
-Below are the links to the different directories associated with analysis of specific papers.
+Below are the links to the different directories associated with analysis of specific papers. The order the papers are in is associated with the order the analyses where done.
 
 [Paper 1](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/tree/main/Paper%201) 
 
