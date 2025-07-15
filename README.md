@@ -19,6 +19,9 @@ Below are the links to the different directories associated with analysis of spe
 
 Created in [https://BioRender.com](https://BioRender.com) A broad overview of the analysis pipline used for this project.
 
+
+List of all the tools, reason they where used and accompanying citation. 
+
 | Tool |           Function |         Citation |            
 | ------------- | ------------- | -------------  |
 | SeqKit  | Download Fastq files  |Shen, W., Le, S., Li, Y. and Hu, F., 2016. SeqKit: a cross-platform and ultrafast toolkit for FASTA/Q file manipulation. PloS one, 11(10), p.e0163962.                |
@@ -29,5 +32,10 @@ Created in [https://BioRender.com](https://BioRender.com) A broad overview of th
 |AnnotationHub                      | Used to access AnnotationHub database to get ensemble data                         |Morgan M, Shepherd L (2024). AnnotationHub: Client to access AnnotationHub resources. doi:10.18129/B9.bioc.AnnotationHub https://doi.org/10.18129/B9.bioc.AnnotationHub, R package version 3.14.0, https://bioconductor.org/packages/AnnotationHub.                    |
 | ensembldb                              | Used to manipulate the annotation data downloaded from AnnotationHub    | Rainer, J., Gatto, L. and Weichenberger, C.X., 2019. ensembldb: an R package to create and use Ensembl-based annotation resources. Bioinformatics, 35(17), pp.3151-3153. |
 | txbmaker  |    Used to create TxDb for later differential expression analysis, alongside converting transcript IDs to geneIDs| Pagès H, Carlson M, Aboyoun P, Falcon S, Morgan M (2025). txdbmaker: Tools for making TxDb objects from genomic annotations. doi:10.18129/B9.bioc.txdbmaker, R package version 1.4.1, https://bioconductor.org/packages/txdbmaker.|
+|Deseq2 | Used to determine differentially expressed genes|
+Deseq2 - Love, M.I., Huber, W. and Anders, S., 2014. Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome biology, 15, pp.1-21. |
+|EnhancedVolcano |Used for the generation of volcano plots of differentially expressed genes |Blighe, K, S Rana, and M Lewis. 2018. “EnhancedVolcano: Publication-ready volcano plots with enhanced colouring and labeling.” https://github.com/kevinblighe/EnhancedVolcano. |
+|Pheatmap    | Used for the generation of heatmaps to help check quality of data.   |Kolde R (2025). pheatmap: Pretty Heatmaps. R package version 1.0.13, https://github.com/raivokolde/pheatmap.  |
+| G:Profiler   |Mainly used to converted filtered list of ensemble gene ids to to gene symnol IDs|Liis Kolberg, Uku Raudvere, Ivan Kuzmin, Priit Adler, Jaak Vilo, Hedi Peterson: g:Profiler—interoperable web service for functional enrichment analysis and gene identifier mapping (2023 update) Nucleic Acids Research, May 2023; doi:10.1093/nar/gkad347|
 
 
