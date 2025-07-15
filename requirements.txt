@@ -1,1 +1,8 @@
-
+#installilation of all of the packages used in command line/bash 
+conda install bioconda::seqkit
+conda install bioconda::fastp
+conda install bioconda::star
+conda install bioconda::salmon
+conda install bioconda::samtools
+conda install bioconda::qualimap
+conda install bioconda::rmats
