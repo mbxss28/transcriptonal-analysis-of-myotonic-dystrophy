@@ -27,8 +27,6 @@ Created in [https://BioRender.com](https://BioRender.com) A broad overview of th
 | tximport            |  Used to import Salmon results into R                  |  Soneson, C., Love, M.I. and Robinson, M.D., 2016. Differential analyses for RNA-seq: transcript-level estimates improve gene-level inferences. F1000Research, 4, p.1521.                     |
 |Tidyverse                     | Used for the filtering and converting data into dataframes                        |Wickham, H., Averick, M., Bryan, J., Chang, W., McGowan, L.D.A., François, R., Grolemund, G., Hayes, A., Henry, L., Hester, J. and Kuhn, M., 2019. Welcome to the Tidyverse. Journal of open source software, 4(43), p.1686.                          |
 |AnnotationHub                      | Used to access AnnotationHub database to get ensemble data                         |Morgan M, Shepherd L (2024). AnnotationHub: Client to access AnnotationHub resources. doi:10.18129/B9.bioc.AnnotationHub https://doi.org/10.18129/B9.bioc.AnnotationHub, R package version 3.14.0, https://bioconductor.org/packages/AnnotationHub.                    |
-| ensembldb                              | Used to manipulate the annotation data downloaded from AnnotationHub    |Rainer J, Gatto L, Weichenberger CX (2019) ensembldb: an R package to create
-  and use Ensembl-based annotation resources. Bioinformatics.
-  doi:10.1093/bioinformatics/btz03 |
+| ensembldb                              | Used to manipulate the annotation data downloaded from AnnotationHub    | Rainer, J., Gatto, L. and Weichenberger, C.X., 2019. ensembldb: an R package to create and use Ensembl-based annotation resources. Bioinformatics, 35(17), pp.3151-3153. |
 
 
