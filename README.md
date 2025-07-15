@@ -18,3 +18,8 @@ Below are the links to the different directories associated with analysis of spe
 ![alt text](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/blob/main/Analysis%20pipeline2.png)
 
 Created in [https://BioRender.com](https://BioRender.com) A broad overview of the analysis pipline used for this project.
+
+| Tool | Function |             
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
