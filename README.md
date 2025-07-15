@@ -23,7 +23,7 @@ Created in [https://BioRender.com](https://BioRender.com) A broad overview of th
 | ------------- | ------------- | -------------  |
 | SeqKit  | Download Fastq files  |Shen, W., Le, S., Li, Y. and Hu, F., 2016. SeqKit: a cross-platform and ultrafast toolkit for FASTA/Q file manipulation. PloS one, 11(10), p.e0163962.                |
 | Fastp  | Used to check quality of Fastq files and automatically produced trimmed files  |Chen, S., Zhou, Y., Chen, Y. and Gu, J., 2018. fastp: an ultra-fast all-in-one FASTQ preprocessor. Bioinformatics, 34(17), pp.i884-i890.  |
-| Salmon       | Used to quantify gene expression  for differential gene express analysis         | Patro, R., Duggal, G., Love, M.I., Irizarry, R.A. and Kingsford, C., 2017. Salmon provides fast and bias-aware quantification of transcript expression. Nature methods, 14(4), pp.417-419.                      |
-
+| Salmon       | Used to quantify gene expression  for DE analysis         | Patro, R., Duggal, G., Love, M.I., Irizarry, R.A. and Kingsford, C., 2017. Salmon provides fast and bias-aware quantification of transcript expression. Nature methods, 14(4), pp.417-419.                      |
+| tximport            |  Used to import Salmon results into R                  |  Soneson, C., Love, M.I. and Robinson, M.D., 2016. Differential analyses for RNA-seq: transcript-level estimates improve gene-level inferences. F1000Research, 4, p.1521.                     |
 
 
