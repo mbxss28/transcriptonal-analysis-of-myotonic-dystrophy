@@ -3,3 +3,4 @@ Myotonic dystrophy 1 (DM1) is an autosomal dominant genetic disorder assoicated 
 
 This project aim to perform differential gene expression (DE) analysis on DM1 and amyotrophic lateral sclerosis (ALS) samples to determine biological pathways assocaited with DM1 pathology as well as to determine any similarites between pathways effected between DM1 and ALS.
 
+![alt text]
