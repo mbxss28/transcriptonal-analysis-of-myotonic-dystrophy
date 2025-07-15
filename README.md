@@ -15,11 +15,10 @@ Below are the links to the different directories associated with analysis of spe
 
 [Paper4](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/tree/main/Paper%204)
 
-![alt text](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/blob/main/Analysis%20pipeline2.png)
-
 
 ## Analysis pipline
 
+![alt text](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/blob/main/Analysis%20pipeline2.png)
 
 Created in [https://BioRender.com](https://BioRender.com) A broad overview of the analysis pipline used for this project.
 
