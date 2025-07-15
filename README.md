@@ -20,7 +20,7 @@ Below are the links to the different directories associated with analysis of spe
 Created in [https://BioRender.com](https://BioRender.com) A broad overview of the analysis pipline used for this project.
 
 
-List of all the tools, reason they where used and accompanying citation. 
+List of all the tools, reason they where used and accompanying citation for the differential gene expression analysis. 
 
 | Tool |           Function |         Citation |            
 | ------------- | ------------- | -------------  |
@@ -36,5 +36,18 @@ List of all the tools, reason they where used and accompanying citation.
 |EnhancedVolcano |Used for the generation of volcano plots of differentially expressed genes |Blighe, K, S Rana, and M Lewis. 2018. “EnhancedVolcano: Publication-ready volcano plots with enhanced colouring and labeling.” https://github.com/kevinblighe/EnhancedVolcano. |
 |Pheatmap    | Used for the generation of heatmaps to help check quality of data.  |Kolde R (2025). pheatmap: Pretty Heatmaps. R package version 1.0.13, https://github.com/raivokolde/pheatmap.  |
 | G:Profiler   |Mainly used to converted filtered list of ensemble gene IDss to to gene symnol IDs|Liis Kolberg, Uku Raudvere, Ivan Kuzmin, Priit Adler, Jaak Vilo, Hedi Peterson: g:Profiler—interoperable web service for functional enrichment analysis and gene identifier mapping (2023 update) Nucleic Acids Research, May 2023; doi:10.1093/nar/gkad347|
+|annotate |Used to convert the gene symbol IDs into entrez ids. Necessary for some aspects of the enrichment analysis.|Gentry J (2025). annotate: Annotation for microarrays. doi:10.18129/B9.bioc.annotate, R package version 1.87.0, https://bioconductor.org/packages/annotate.|
+| ClusterProfiler  | Used to perform Gene Set Enrichment Analysis(GSEA), enrichment analysis and Kegg enrichment analysis.|Clusterprofiler - Yu, G., Wang, L.G., Han, Y. and He, Q.Y., 2012. clusterProfiler: an R package for comparing biological themes among gene clusters. Omics: a journal of integrative biology, 16(5), pp.284-287.|
+|pathview |Used to view the Kegg pathways found to be enriched by ClusterProfiler.|Luo, Weijun, Brouwer, Cory (2013). “Pathview: an R/Bioconductor package for pathway-based data integration and visualization.” Bioinformatics, 29(14), 1830-1831. doi:10.1093/bioinformatics/btt285.|
+
+
+
+
+
+| Tool          |   Function    |   Citation     |            
+| ------------- | ------------- | -------------  |
+| | | | 
+
+
 
 
