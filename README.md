@@ -62,10 +62,10 @@ List of tools used, their function and and accompanying citation for the Alterna
 |rMATS|Used to measure significantly dysregulated genes between samples.|  Shen, S., Park, J.W., Lu, Z.X., Lin, L., Henry, M.D., Wu, Y.N., Zhou, Q. and Xing, Y., 2014. rMATS: robust and flexible detection of differential alternative splicing from replicate RNA-Seq data. Proceedings of the national academy of sciences, 111(51), pp.E5593-E5601.|
 |rmatsplot |Used to generate plots from the results of rMATs |https://github.com/Xinglab/rmats2sashimiplot|
 
-#Final Notes
+# Final Notes
 
 If installing rMATS using conda and you encounter any issues try going into the .condarc file and removing the "channel-prioity disabled" option and then installing rmats.
 
-Some of the file names may not corraspond to the paper numbers mentioned earlier. The reason for this is that even though three papers where used for the final analysis, in total five where looked at but ultimatly not included in the final paper.
+Some of the file names in the scripts provided may not corraspond to the paper numbers mentioned earlier. The reason for this is that even though three papers where used for the final analysis, in total five where looked at but two not included.
 
 
