@@ -11,7 +11,7 @@ Below are the links to the different directories associated with analysis of spe
 
 [Paper 2](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/tree/main/Paper%203)
 
-[Paper3](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/tree/main/Paper%204)
+[Paper3](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/tree/main/Paper%203)
 
 
 ## Analysis pipeline
