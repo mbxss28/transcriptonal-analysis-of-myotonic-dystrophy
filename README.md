@@ -56,6 +56,8 @@ List of all the tools, reason they where used and accompanying citation for the 
 | ClusterProfiler  | Used to perform Gene Set Enrichment Analysis(GSEA), enrichment analysis and Kegg enrichment analysis.|Clusterprofiler - Yu, G., Wang, L.G., Han, Y. and He, Q.Y., 2012. clusterProfiler: an R package for comparing biological themes among gene clusters. Omics: a journal of integrative biology, 16(5), pp.284-287.|
 |pathview |Used to view the Kegg pathways found to be enriched by ClusterProfiler.|Luo, Weijun, Brouwer, Cory (2013). “Pathview: an R/Bioconductor package for pathway-based data integration and visualization.” Bioinformatics, 29(14), 1830-1831. doi:10.1093/bioinformatics/btt285.|
 
+Link to DE analysis 
+[DE](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/tree/main/DE)
 
 ### Alternate splicing analysis
 List of tools used, their function and and accompanying citation for the Alternate splicing/differential exon usage analysis. 
