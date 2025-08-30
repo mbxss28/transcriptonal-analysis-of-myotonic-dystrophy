@@ -68,6 +68,8 @@ List of tools used, their function and and accompanying citation for the Alterna
 |rMATS|Used to measure significantly dysregulated genes between samples.|  Shen, S., Park, J.W., Lu, Z.X., Lin, L., Henry, M.D., Wu, Y.N., Zhou, Q. and Xing, Y., 2014. rMATS: robust and flexible detection of differential alternative splicing from replicate RNA-Seq data. Proceedings of the national academy of sciences, 111(51), pp.E5593-E5601.|
 |rmatsplot |Used to generate plots from the results of rMATs |https://github.com/Xinglab/rmats2sashimiplot|
 
+Link to directory for AS analysis
+[AS](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/tree/main/AS)
 
 ### Citations for papers used for analysis
 Nutter, C.A., Kidd, B.M., Carter, H.A., Hamel, J.I., Mackie, P.M., Kumbkarni, N., Davenport, M.L., Tuyn, D.M., Gopinath, A., Creigh, P.D. and Sznajder, Ł.J., 2023. Choroid plexus mis-splicing and altered cerebrospinal fluid composition in myotonic dystrophy type 1. Brain, 146(10), pp.4217-4232.
