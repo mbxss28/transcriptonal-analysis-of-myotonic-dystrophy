@@ -30,7 +30,7 @@ Created in [https://BioRender.com](https://BioRender.com) A broad overview of th
 
 ### Getting the data
 
-list of tools used to download and check quality of data.
+list of tools used to download and check quality of fastq files.
 |    Tool       |    Function   |   Citation     |            
 | ------------- | ------------- | -------------  |
 | Seqkit | Used to download fastq files from the GEO|Shen, W., Le, S., Li, Y. and Hu, F., 2016. SeqKit: a cross-platform and ultrafast toolkit for FASTA/Q file manipulation. PloS one, 11(10), p.e0163962. |                  
