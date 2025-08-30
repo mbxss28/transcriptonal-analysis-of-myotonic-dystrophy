@@ -5,6 +5,8 @@ This project aim to perform differential gene expression (DE) analysis on DM1 an
 
 For this, publically avilable data from four research papers where used with data downloaded from the [Genome eccession omnibus (GEO)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi).
 
+
+### Datasets
 Paper - 1 came from the analysis of transcriptome alterations of individuals effected by myotonic dystrophy (Otero et al, 2021). 
 For this analysis only the DM1 and unaffected samples where use. 
 
