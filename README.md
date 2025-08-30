@@ -5,18 +5,12 @@ This project aim to perform differential gene expression (DE) analysis on DM1 an
 
 For this, publically avilable data from four research papers where used with data downloaded from the [Genome eccession omnibus (GEO)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi).
 
-Below are the links to the different directories associated with analysis of specific papers. The order the papers are in is associated with the order the analyses where done.
+Paper - 1 came from the analysis of transcriptome alterations of individuals effected by myotonic dystrophy (Otero et al, 2021). 
+For this analysis only the DM1 and unaffected samples where use. 
 
-[Paper 1](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/tree/main/Paper%201) 
+Link to Fastq files used [GSE157428](https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA661286&o=acc_s%3Aa)
 
-[Paper 2](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/tree/main/Paper%203)
-
-[Paper3](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/tree/main/Paper%203)
-
-### Link to GEO files
-
-
-
+Paper 2 - 
 ## Analysis pipeline
 
 ![alt text](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/blob/main/Analysis%20pipeline2.png)
