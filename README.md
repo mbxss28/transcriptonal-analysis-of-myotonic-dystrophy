@@ -68,6 +68,8 @@ List of tools used, their function and and accompanying citation for the Alterna
 
 Otero, B.A., Poukalov, K., Hildebrandt, R.P., Thornton, C.A., Jinnai, K., Fujimura, H., Kimura, T., Hagerman, K.A., Sampson, J.B., Day, J.W. and Wang, E.T., 2021. Transcriptome alterations in myotonic dystrophy frontal cortex. Cell reports, 34(3).
 
+Prudencio, M., Belzil, V.V., Batra, R., Ross, C.A., Gendron, T.F., Pregent, L.J., Murray, M.E., Overstreet, K.K., Piazza-Johnston, A.E., Desaro, P. and Bieniek, K.F., 2015. Distinct brain transcriptome profiles in C9orf72-associated and sporadic ALS. Nature neuroscience, 18(8), pp.1175-1182.
+
 
 # Final Notes
 
