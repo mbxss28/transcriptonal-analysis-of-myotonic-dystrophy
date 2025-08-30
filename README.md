@@ -13,6 +13,9 @@ Below are the links to the different directories associated with analysis of spe
 
 [Paper3](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/tree/main/Paper%203)
 
+### Link to GEO files
+
+
 
 ## Analysis pipeline
 
@@ -64,7 +67,8 @@ List of tools used, their function and and accompanying citation for the Alterna
 |rmatsplot |Used to generate plots from the results of rMATs |https://github.com/Xinglab/rmats2sashimiplot|
 
 
-### Citations 
+### Citations for papers used for analysis
+Nutter, C.A., Kidd, B.M., Carter, H.A., Hamel, J.I., Mackie, P.M., Kumbkarni, N., Davenport, M.L., Tuyn, D.M., Gopinath, A., Creigh, P.D. and Sznajder, Ł.J., 2023. Choroid plexus mis-splicing and altered cerebrospinal fluid composition in myotonic dystrophy type 1. Brain, 146(10), pp.4217-4232.
 
 Otero, B.A., Poukalov, K., Hildebrandt, R.P., Thornton, C.A., Jinnai, K., Fujimura, H., Kimura, T., Hagerman, K.A., Sampson, J.B., Day, J.W. and Wang, E.T., 2021. Transcriptome alterations in myotonic dystrophy frontal cortex. Cell reports, 34(3).
 
