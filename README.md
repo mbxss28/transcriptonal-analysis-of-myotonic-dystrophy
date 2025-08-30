@@ -10,7 +10,12 @@ For this analysis only the DM1 and unaffected samples where use.
 
 Link to Fastq files used [GSE157428](https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA661286&o=acc_s%3Aa)
 
-Paper 2 - 
+Paper 2 - Transcriptional analysis of C9orf72-associated ALS. A form of ALS caused by a hexanucleotide GGGGGG repeat expansion in the C9orf72 gene (Prudencio M et al., 2015).
+For this analysis only healthy and ALS samples from the frontal cortex where used for a better comparison to [Paper 1](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/tree/main/Paper%201)
+
+Paper 3 - 
+
+Link to the Fastq files used [GSE67196](https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA279249&o=acc_s%3Aa)
 ## Analysis pipeline
 
 ![alt text](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/blob/main/Analysis%20pipeline2.png)
