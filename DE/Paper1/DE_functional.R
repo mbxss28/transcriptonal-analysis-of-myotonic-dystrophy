@@ -185,6 +185,24 @@ keggp1 <- enrichKEGG(gene = idsp1_final ,
 
 gsex1 <- setReadable(gsep1, "org.Hs.eg.db", keyType = "auto")
 gse_p1 <- pairwise_termsim(gsex1, showCategory = dim(gsex1)[1])
+
+#Load enrichment results into dataframes and convert into csv files.
+kegg1_df <- as.data.frame(keggp1@result)
+kegg1_order <- kegg1_df[order(kegg1_df$FoldEnrichment,decreasing = TRUE),]
+
+write.csv(kegg1_order,"p1_Kegg.csv")
+
+gsep1_df <- as.data.frame(gsep1@result)
+gsep1_order <- gsep1_df[order(gsep1_df$p.adjust,decreasing = TRUE),]
+
+write.csv(gsep1_order, "p1_GSEA.csv")
+
+enrichp1_df <- as.data.frame(enrichp1@result)
+
+enrichp1_order <- enrichp1_df[order(enrichp1_df$p.adjust,decreasing = TRUE),]
+
+write.csv(enrichp1_order, "p1_enrich.csv")
+
 #create dotplot
 dotplot(gsep1, showCategory=10, font.size = 6.1, 
         split=".sign",
@@ -221,7 +239,8 @@ hsa04668  <- pathview(gene.data  = idsp1_final,
                       pathway.id = "hsa04668",
                       species    = "hsa",
                       gene.idtype = "entrez")
-hsa04621 <- pathview(gene.data  = idsp1_final,
-                      pathway.id = "hsa04621",
+
+hsa04064  <- pathview(gene.data  = idsp1_final,
+                      pathway.id = "hsa04064",
                       species    = "hsa",
                       gene.idtype = "entrez")
