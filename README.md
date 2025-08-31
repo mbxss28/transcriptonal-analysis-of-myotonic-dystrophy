@@ -67,7 +67,7 @@ List of tools used, their function and and accompanying citation for the Alterna
 |rMATS|Used to measure significantly dysregulated genes between samples.|  Shen, S., Park, J.W., Lu, Z.X., Lin, L., Henry, M.D., Wu, Y.N., Zhou, Q. and Xing, Y., 2014. rMATS: robust and flexible detection of differential alternative splicing from replicate RNA-Seq data. Proceedings of the national academy of sciences, 111(51), pp.E5593-E5601.|
 |rmatsplot |Used to generate plots from the results of rMATs |https://github.com/Xinglab/rmats2sashimiplot|
 
-###Quality Reports
+### Quality Reports
 
 Link to Quality report for fastq file produced from fastp
 [FastpQC reports](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/tree/main/Fastp_QC)
