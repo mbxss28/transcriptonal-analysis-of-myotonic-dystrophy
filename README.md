@@ -66,6 +66,7 @@ List of tools used, their function and and accompanying citation for the Alterna
 |Qualimap | Used to generate more indepth analysis of alignment quality, that produces graphs.|Okonechnikov, K., Conesa, A. and García-Alcalde, F., 2016. Qualimap 2: advanced multi-sample quality control for high-throughput sequencing data. Bioinformatics, 32(2), pp.292-294.|
 |rMATS|Used to measure significantly dysregulated genes between samples.|  Shen, S., Park, J.W., Lu, Z.X., Lin, L., Henry, M.D., Wu, Y.N., Zhou, Q. and Xing, Y., 2014. rMATS: robust and flexible detection of differential alternative splicing from replicate RNA-Seq data. Proceedings of the national academy of sciences, 111(51), pp.E5593-E5601.|
 | ClusterProfiler  | Used to perform over-representation analysis (ORA) of pathways effected by significantly differentially spliced genes.|Clusterprofiler - Yu, G., Wang, L.G., Han, Y. and He, Q.Y., 2012. clusterProfiler: an R package for comparing biological themes among gene clusters. Omics: a journal of integrative biology, 16(5), pp.284-287.|
+|Tidyverse                     | Mainly used to plot the number of splice events for each of the five catagories analysied. Skipped Exon(SE), Retained Intron(RI), Mutually Exclusive Exon (MXE), Alternate 3’ splice site(A3ss), Alternate 5’ splice site(A5ss) |Wickham, H., Averick, M., Bryan, J., Chang, W., McGowan, L.D.A., François, R., Grolemund, G., Hayes, A., Henry, L., Hester, J. and Kuhn, M., 2019. Welcome to the Tidyverse. Journal of open source software, 4(43), p.1686.
 
 ### Quality Reports
 
