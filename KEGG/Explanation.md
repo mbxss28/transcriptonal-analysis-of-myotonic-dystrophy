@@ -5,7 +5,7 @@ Supplementary Figure 1 - Illistation of NFKB pathway found to be enriched in the
 ![alt text](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/blob/main/KEGG/p1_NODlike.pathview.png)
 Supplementary Figure 2 -  Illistation of NOD pathway found to be enriched in the frontal cortex DM1 differential gene expression analysis with red genes indicating significantly differentially expressed genes.
 
-![alt text](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/blob/main/KEGG/p1_TNFike.pathview.png)
+![alt text](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/blob/main/KEGG/p1_TNF.pathview.png)
 Supplementary Figure 3 -  Illistation of TNF signaling pathway found to be enriched in the frontal cortex DM1 differential gene expression analysis with red genes indicating significantly differentially expressed genes.
 
 ![alt text](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/blob/main/KEGG/p1_necroptosis.pathview.png)
