@@ -53,7 +53,7 @@ List of all the tools, reason they where used and accompanying citation for the 
 |Pheatmap    | Used for the generation of heatmaps to help check quality of data.  |Kolde R (2025). pheatmap: Pretty Heatmaps. R package version 1.0.13, https://github.com/raivokolde/pheatmap.  |
 | G:Profiler   |Mainly used to converted filtered list of ensemble gene IDss to gene symnol IDs|Liis Kolberg, Uku Raudvere, Ivan Kuzmin, Priit Adler, Jaak Vilo, Hedi Peterson: g:Profiler—interoperable web service for functional enrichment analysis and gene identifier mapping (2023 update) Nucleic Acids Research, May 2023; doi:10.1093/nar/gkad347|
 |annotate |Used to convert the gene symbol IDs into entrez ids. Necessary for over-representaion analysis and KEGG enrichment analysis.|Gentry J (2025). annotate: Annotation for microarrays. doi:10.18129/B9.bioc.annotate, R package version 1.87.0, https://bioconductor.org/packages/annotate.|
-| ClusterProfiler  | Used to perform Gene Set Enrichment Analysis(GSEA), enrichment analysis and Kegg enrichment analysis.|Clusterprofiler - Yu, G., Wang, L.G., Han, Y. and He, Q.Y., 2012. clusterProfiler: an R package for comparing biological themes among gene clusters. Omics: a journal of integrative biology, 16(5), pp.284-287.|
+| ClusterProfiler  | Used to perform Gene Set Enrichment Analysis(GSEA), over-representation analysis (ORA) and Kegg enrichment analysis.|Clusterprofiler - Yu, G., Wang, L.G., Han, Y. and He, Q.Y., 2012. clusterProfiler: an R package for comparing biological themes among gene clusters. Omics: a journal of integrative biology, 16(5), pp.284-287.|
 |pathview |Used to view the Kegg pathways found to be enriched by ClusterProfiler.|Luo, Weijun, Brouwer, Cory (2013). “Pathview: an R/Bioconductor package for pathway-based data integration and visualization.” Bioinformatics, 29(14), 1830-1831. doi:10.1093/bioinformatics/btt285.|
 
 ### Alternate splicing analysis
@@ -66,6 +66,7 @@ List of tools used, their function and and accompanying citation for the Alterna
 |Qualimap | Used to generate more indepth analysis of alignment quality, that produces graphs.|Okonechnikov, K., Conesa, A. and García-Alcalde, F., 2016. Qualimap 2: advanced multi-sample quality control for high-throughput sequencing data. Bioinformatics, 32(2), pp.292-294.|
 |rMATS|Used to measure significantly dysregulated genes between samples.|  Shen, S., Park, J.W., Lu, Z.X., Lin, L., Henry, M.D., Wu, Y.N., Zhou, Q. and Xing, Y., 2014. rMATS: robust and flexible detection of differential alternative splicing from replicate RNA-Seq data. Proceedings of the national academy of sciences, 111(51), pp.E5593-E5601.|
 |rmatsplot |Used to generate plots from the results of rMATs |https://github.com/Xinglab/rmats2sashimiplot|
+| ClusterProfiler  | Used to perform over-representation analysis (ORA) of pathways effected by significantly differentially spliced genes.|Clusterprofiler - Yu, G., Wang, L.G., Han, Y. and He, Q.Y., 2012. clusterProfiler: an R package for comparing biological themes among gene clusters. Omics: a journal of integrative biology, 16(5), pp.284-287.|
 
 ### Quality Reports
 
