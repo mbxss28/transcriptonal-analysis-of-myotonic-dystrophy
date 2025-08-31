@@ -36,9 +36,6 @@ list of tools used to download and check quality of fastq files.
 | Seqkit | Used to download fastq files from the GEO|Shen, W., Le, S., Li, Y. and Hu, F., 2016. SeqKit: a cross-platform and ultrafast toolkit for FASTA/Q file manipulation. PloS one, 11(10), p.e0163962. |                  
 | Fastp    |  Used to check quality of Fastq files and automatically produced trimmed files |Chen, S., Zhou, Y., Chen, Y. and Gu, J., 2018. fastp: an ultra-fast all-in-one FASTQ preprocessor. Bioinformatics, 34(17), pp.i884-i890. |
 
-Link to Quality report for fastq file produced from fastp
-[FastpQC reports](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/tree/main/Fastp_QC)
-
 ### Differental gene expression analysis
 
 List of all the tools, reason they where used and accompanying citation for the differential gene expression analysis. 
@@ -70,9 +67,16 @@ List of tools used, their function and and accompanying citation for the Alterna
 |rMATS|Used to measure significantly dysregulated genes between samples.|  Shen, S., Park, J.W., Lu, Z.X., Lin, L., Henry, M.D., Wu, Y.N., Zhou, Q. and Xing, Y., 2014. rMATS: robust and flexible detection of differential alternative splicing from replicate RNA-Seq data. Proceedings of the national academy of sciences, 111(51), pp.E5593-E5601.|
 |rmatsplot |Used to generate plots from the results of rMATs |https://github.com/Xinglab/rmats2sashimiplot|
 
+###Quality Reports
+
+Link to Quality report for fastq file produced from fastp
+[FastpQC reports](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/tree/main/Fastp_QC)
 
 Link to BAM quality reports produced from Qualimap
 [BAMQC](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/tree/main/BAM_QC)
+
+
+### Scripts
 
 Link to all of the bash scripts used to download and analysis data before importing into R.
 [Bash Scripts](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/tree/main/Scripts)
