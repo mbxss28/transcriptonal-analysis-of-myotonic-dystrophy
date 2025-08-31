@@ -7,7 +7,7 @@ For this, publically avilable data from three research papers where used with da
 
 
 ### Datasets
-Paper - 1 came from the analysis of transcriptome alterations of individuals effected by myotonic dystrophy (Otero et al, 2021). 
+Paper 1 - came from the analysis of transcriptome alterations of individuals effected by myotonic dystrophy (Otero et al, 2021). 
 For this analysis only the DM1 and unaffected samples where use. 
 
 Link to Fastq files used [GSE157428](https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA661286&o=acc_s%3Aa)
