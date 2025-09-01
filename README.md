@@ -89,6 +89,9 @@ Link to Rscripts and csv files showing the results of the differential gene expr
 Link to directory for the R scripts used for the AS analysis and csv files of list of differentially spliced genes.
 [AS](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/tree/main/AS)
 
+### Supplementary Figure 
+[KEGG](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/tree/main/KEGG)
+
 ### Citations for papers used for analysis
 Nutter, C.A., Kidd, B.M., Carter, H.A., Hamel, J.I., Mackie, P.M., Kumbkarni, N., Davenport, M.L., Tuyn, D.M., Gopinath, A., Creigh, P.D. and Sznajder, Ł.J., 2023. Choroid plexus mis-splicing and altered cerebrospinal fluid composition in myotonic dystrophy type 1. Brain, 146(10), pp.4217-4232.
 
