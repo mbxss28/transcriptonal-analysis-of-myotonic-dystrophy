@@ -89,7 +89,7 @@ Link to Rscripts and csv files showing the results of the differential gene expr
 Link to directory for the R scripts used for the AS analysis and csv files of list of differentially spliced genes.
 [AS](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/tree/main/AS)
 
-### Supplementary Figure 
+### Supplementary Figures 
 [KEGG](https://github.com/mbxss28/transcriptonal-analysis-of-myotonic-dystrophy/tree/main/KEGG)
 
 ### Citations for papers used for analysis
